@@ -1,4 +1,4 @@
-# apuntes-asir
+# Apuntes ASIR
 > Apuntes de el curso de FP Superior de ASIR.
 
 En este repositorio ire recopilando y subiendo mis apuntes del curso de FP superior de el grado de ASIR (Administración de Sistemas Informaticos en Red).
