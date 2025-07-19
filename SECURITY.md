@@ -22,4 +22,11 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 -->
 # Reporting a Vulnerability
-Cuando dentro de algun documento con codigo haya alguna vulnerablidiad reportalo en "issue" y especifica en que ruta absoluta se encuentra y que es lo que esta mal, para que pueda ser corregido.
+
+>[!WARNING]
+>Este repositorio esta en construcción y puede tener fallos o "bugs".
+
+Si quieres ayudarme a corregir los errores y fallos que haya en este repositorio puedes hacer lo que te explico a continuación.
+
+>[!NOTE]
+>Cuando dentro de algun documento con codigo haya alguna vulnerablidiad reportalo en "issue" y especifica en que ruta absoluta se encuentra y que es lo que esta mal, para que pueda ser corregido.
