@@ -4,4 +4,4 @@
 En este repositorio ire recopilando y subiendo mis apuntes del curso de FP superior de el grado de ASIR (Administración de Sistemas Informaticos en Red).
 
 >[!Warning]
->Este repositorio esta en construcción por lo que puede tener fallos si quieres ayudarem con eso inicia una "issue" o haz una "pull requests" y encantado revisare el fallo.
+>Este repositorio esta en construcción por lo que puede tener fallos si quieres ayudarme con eso ve a SECURITY y alli te explico que puedes hacer para ayudar.
