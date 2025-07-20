@@ -29,4 +29,4 @@ declined, etc.
 Si quieres ayudarme a corregir los errores y fallos que haya en este repositorio puedes hacer lo que te explico a continuación.
 
 >[!NOTE]
->Cuando dentro de algun documento con codigo haya alguna vulnerablidiad reportalo en "issue" y especifica en que ruta absoluta se encuentra y que es lo que esta mal, para que pueda ser corregido.
+>Cuando dentro de algun documento con codigo o apuntes haya alguna vulnerablidiad reportalo en "issue" y especifica en que ruta absoluta se encuentra y que es lo que esta mal, para que pueda ser corregido.
