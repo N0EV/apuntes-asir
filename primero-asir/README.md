@@ -16,4 +16,4 @@ Las asignaturas son las siguientes, al lado de estas indico las siglas que se le
 | Módulo optativo I | MO-1 |
 
 > El modulo opativo en el primer curso no es tan optativo dado que solo hay una opción por la que elegir.
-> - [ ] Transformación del Sistema Productivo (TSP)
+> - [x] Transformación del Sistema Productivo (TSP)
