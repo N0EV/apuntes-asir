@@ -18,6 +18,6 @@ Las asignaturas son las siguientes, al lado de estas indico las siglas que se le
 | Módulo optativo II | MO-2 |
 |Proyecto intermodular de administración de sistemas informáticos en red | PI-ASIR |
 
-> En el modulo optativo se da a elegir entre dos opciones en el caso del segundo curso, cuando este en segundo curso marcare la que elegido.
+> En el modulo optativo se da a elegir entre dos opciones en el caso del segundo curso, cuando este en segundo curso marcare la que he elegido.
 > - [ ] Computación en la nube (CN)
 > - [ ] Fundamentos de ciberseguridad (FC)
