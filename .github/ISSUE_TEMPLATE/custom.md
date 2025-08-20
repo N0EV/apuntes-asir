@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Plantilla para solicitar una issue
 about: Guia para completar una issue.
 title: ''
 labels: ''
