@@ -1,5 +1,5 @@
 ---
-name: Plantilla para solicitar una issue
+name: Reportes
 about: Guia para completar una issue.
 title: ''
 labels: ''
