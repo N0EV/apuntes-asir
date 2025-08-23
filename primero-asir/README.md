@@ -1,6 +1,6 @@
 # Primero ASIR
 >[!WARNING]
->Este repositorio esta en construcción mientras este cursando el curso, si en cualquier momento encuentras un fallo hazmelo saber mediante una "issue" o una "pull request" como especifico en el README del repositorio.
+>Este repositorio esta en construcción mientras este cursando el curso, si en cualquier momento encuentras un fallo hazmelo saber mediante una "issue" o una "pull request" como especifico en el [README](https://github.com/N0EV/apuntes-asir/blob/9a59798826490fee778c7a585de24d7177c14208/README.md) del repositorio.
 
 Las asignaturas son las siguientes, al lado de estas indico las siglas que se les van a poner para diferenciar las carpetas de este repositorio.
 
