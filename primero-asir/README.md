@@ -15,7 +15,7 @@ Las asignaturas son las siguientes, al lado de estas indico las siglas que se le
 | Itinerario personal para la empleabilidad I | IPE-1 |
 | Módulo optativo I | MO-1 |
 
-> El modulo opativo en el primer curso no es tan optativo dado que solo hay una opción por la que elegir.
+> El modulo opativo referido anteriormente es el siguiente:
 > - [x] Transformación del Sistema Productivo (TSP)
 
 >[!NOTE]
