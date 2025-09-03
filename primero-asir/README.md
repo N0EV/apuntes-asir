@@ -17,3 +17,6 @@ Las asignaturas son las siguientes, al lado de estas indico las siglas que se le
 
 > El modulo opativo en el primer curso no es tan optativo dado que solo hay una opción por la que elegir.
 > - [x] Transformación del Sistema Productivo (TSP)
+
+>[!NOTE]
+> La asignatura opcional se le pondra las siglas que tiene el nombre de la asignatura y para el segundo curso se pondra la asignatura elegida y se tratara de pedir los apuntes de la asignatura que no se eliga para tener los apuntes también.
