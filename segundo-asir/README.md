@@ -1,8 +1,5 @@
 # Segundo ASIR
 
->[!WARNING]
->Este repositorio esta en construcción mientras este cursando el curso, si en cualquier momento encuentras un fallo hazmelo saber mediante una "issue" o una "pull request" como especifico en el README del repositorio.
-
 Las asignaturas son las siguientes, al lado de estas indico las siglas que se les van a poner para diferenciar las carpetas de este repositorio.
 
 | Asignatura | Siglas |
@@ -18,6 +15,12 @@ Las asignaturas son las siguientes, al lado de estas indico las siglas que se le
 | Módulo optativo II | MO-2 |
 |Proyecto intermodular de administración de sistemas informáticos en red | PI-ASIR |
 
-> En el modulo optativo se da a elegir entre dos opciones en el caso del segundo curso, cuando este en segundo curso marcare la que he elegido.
-> - [ ] Computación en la nube (CN)
-> - [ ] Fundamentos de ciberseguridad (FC)
+En el modulo optativo se da a elegir entre dos opciones en el caso del segundo curso:
+- [ ] Computación en la nube (CN)
+- [ ] Fundamentos de ciberseguridad (FC)
+
+>[!NOTE]
+>Cuando este en segundo curso marcare la que he elegido.
+
+>[!WARNING]
+>Este repositorio esta en construcción mientras este cursando el curso, si en cualquier momento encuentras un fallo hazmelo saber mediante una "issue" o una "pull request" como especifico en el README del repositorio.
