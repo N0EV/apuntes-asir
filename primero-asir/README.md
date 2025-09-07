@@ -13,7 +13,7 @@ Las asignaturas son las siguientes, al lado de estas indico las siglas que se le
 | Itinerario personal para la empleabilidad I | IPE-1 |
 | Módulo optativo I | MO-1 |
 
- El modulo opativo referido anteriormente es el siguiente: Transformación del Sistema Productivo (TSP)
+El modulo opativo referido anteriormente es el siguiente: Transformación del Sistema Productivo (TSP)
 
 >[!NOTE]
 > La asignatura opcional se le pondra las siglas que tiene el nombre de la asignatura y para el segundo curso se pondra la asignatura elegida y se tratara de pedir los apuntes de la asignatura que no se eliga para tener los apuntes también.
