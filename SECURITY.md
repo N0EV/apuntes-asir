@@ -26,4 +26,4 @@ declined, etc.
 Si quieres ayudarme a corregir los errores y fallos que haya en este repositorio, tienes una plantilla que puedes seguir llamada **Reportes**.
 
 >[!NOTE]
->Esta plnatilla te saldra cuando le des a crear una nueva "issue".
+>Esta plantilla te saldra cuando le des a crear una nueva "issue".
