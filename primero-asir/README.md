@@ -1,8 +1,8 @@
 # Primero ASIR
 
-Las asignaturas son las siguientes, al lado de estas indico las siglas que se les van a poner para diferenciar las carpetas de este repositorio.
+Los módulos son los siguientes, al lado de estos indico las siglas que se les van a poner para diferenciar las carpetas de este repositorio.
 
-| Asignatura | Siglas |
+| Módulos | Siglas |
 | --- | --- |
 | Implantación de sistemas operativos | ISO |
 | Planificación y administración de redes | PAR |
