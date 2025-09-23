@@ -9,6 +9,12 @@ En este repositorio ire recopilando y subiendo mis apuntes del curso de FP super
 ├── .github/ISSUE_TEMPLATE
 │     └── reportes.md
 ├── /primero-asir
+│     ├──/nombre-de-la-asignatura
+│     │    ├──/alumno
+│     │    │    ├──/tema-x (número de tema que corresponda)
+│     │    │        ├──/apuntes
+│     │    │        └──/ejercicios (Si los hay)
+│     │    └──/profesor
 │     └── README.md
 ├── /segundo-adir
 │     └── README.md
