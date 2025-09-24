@@ -4,10 +4,11 @@
 En este repositorio ire recopilando y subiendo mis apuntes del curso de FP superior de el grado de ASIR (Administración de Sistemas Informaticos en Red).
 
 ## Estructura del repostiorio
-```txt
+```c#
 /apuntes-asir
-├── .github/ISSUE_TEMPLATE
-│     └── reportes.md
+├──/.github
+│     └──/ISSUE_TEMPLATE
+│         └── reportes.md
 ├── /primero-asir
 │     ├──/nombre-de-la-asignatura
 │     │    ├──/alumno
