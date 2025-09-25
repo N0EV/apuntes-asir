@@ -23,6 +23,7 @@ En este repositorio ire recopilando y subiendo mis apuntes del curso de FP super
 ├── LICENSE
 ├── README.md
 ├── SECURITY.md
+├── .vscode
 └── .gitignore
 ```
 
