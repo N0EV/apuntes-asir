@@ -9,6 +9,12 @@ En este repositorio ire recopilando y subiendo mis apuntes del curso de FP super
 ├── .github/ISSUE_TEMPLATE
 │     └── reportes.md
 ├── /primero-asir
+│     ├──/nombre-de-la-asignatura
+│     │    ├──/alumno
+│     │    │    ├──/tema-x (número de tema que corresponda)
+│     │    │        ├──/apuntes
+│     │    │        └──/ejercicios (Si los hay)
+│     │    └──/profesor
 │     └── README.md
 ├── /segundo-adir
 │     └── README.md
@@ -18,5 +24,9 @@ En este repositorio ire recopilando y subiendo mis apuntes del curso de FP super
 ├── SECURITY.md
 └── .gitignore
 ```
+
+>[!NOTE]
+>Se ha creado una nueva "rama" en el repositorio para ir subiendo el trabajo y tenerlo guardado, una vez se revise y depure los errores que pueda haber se pasara a la rama main para todo el mundo.
+
 >[!WARNING]
 >Este repositorio esta en construcción mientras este cursando el curso, si en cualquier momento encuentras un fallo hazmelo saber mediante una "issue" o una "pull request" como especifico en el [SECURITY](https://github.com/N0EV/apuntes-asir/blob/9a59798826490fee778c7a585de24d7177c14208/SECURITY.md) del repositorio.
