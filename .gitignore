@@ -1,1 +1,4 @@
 # Gitignore para los apuntes # Simplemente para cuando no quiera subir algun archivo más sensible
+
+# Mis anotaciones
+/notas-asignaturas
