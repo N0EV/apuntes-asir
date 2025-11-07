@@ -13,10 +13,10 @@ Los módulos son los siguientes, al lado de estos indico las siglas que se les v
 | Itinerario personal para la empleabilidad I | IPE-1 |
 | Módulo optativo I | MO-1 |
 
-El módulo optativo referido anteriormente es el siguiente: Transformación del Sistema Productivo (TSP).
-
 >[!NOTE]
 > Al módulo optativo se le pondra las siglas que tiene el modulo de la asignatura.
+>
+> El módulo optativo referido anteriormente es el siguiente: Transformación del Sistema Productivo (TSP).
 
 >[!WARNING]
 >Este repositorio esta en construcción mientras este cursando el curso, si en cualquier momento encuentras un fallo hazmelo saber mediante una "issue" o una "pull request" como especifico en el [SECURITY](https://github.com/N0EV/apuntes-asir/blob/9a59798826490fee778c7a585de24d7177c14208/SECURITY.md) del repositorio.
