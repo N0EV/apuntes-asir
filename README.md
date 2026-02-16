@@ -1,11 +1,11 @@
 ```txt
-      .o.        .oooooo..o ooooo ooooooooo.          .o  
-     .888.      d8P'    `Y8 `888' `888   `Y88.      o888  
-    .8"888.     Y88bo.       888   888   .d88'       888  
-   .8' `888.     `"Y8888o.   888   888ooo88P'        888  
-  .88ooo8888.        `"Y88b  888   888`88b.          888  
- .8'     `888.  oo     .d8P  888   888  `88b.        888  
-o88o     o8888o 8""88888P'  o888o o888o  o888o      o888o 
+      .o.        .oooooo..o ooooo ooooooooo.
+     .888.      d8P'    `Y8 `888' `888   `Y88.
+    .8"888.     Y88bo.       888   888   .d88'
+   .8' `888.     `"Y8888o.   888   888ooo88P'
+  .88ooo8888.        `"Y88b  888   888`88b.
+ .8'     `888.  oo     .d8P  888   888  `88b.
+o88o     o8888o 8""88888P'  o888o o888o  o888o
 ```
 -----
 # Apuntes ASIR
@@ -32,4 +32,5 @@ Los contenidos esta dividido por curso y dentro de cada curso, se encuentran las
 Los detalles de la licencia se encuentran [aquí](/LICENSE).
 
 > [!WARNING]
+
 > Este repositorio está en continuo cambio por lo que puede haber cosas que vayan variando a lo largo del tiempo, ya sea por decisiones esteticas, legales o personales.
