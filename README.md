@@ -32,5 +32,5 @@ Los contenidos esta dividido por curso y dentro de cada curso, se encuentran las
 Los detalles de la licencia se encuentran [aquí](/LICENSE).
 
 > [!WARNING]
-
 > Este repositorio está en continuo cambio por lo que puede haber cosas que vayan variando a lo largo del tiempo, ya sea por decisiones esteticas, legales o personales.
+
