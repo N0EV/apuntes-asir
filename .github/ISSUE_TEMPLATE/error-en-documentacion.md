@@ -1,5 +1,5 @@
 ---
-name: Error en Documentacion
+name: Error en Documentación
 about: Reporta faltas de ortografía, errores de redacción o problemas de formato
 title: "[DOC]"
 labels: documentation
