@@ -12,7 +12,7 @@ o88o     o8888o 8""88888P'  o888o o888o  o888o
 
 Este repositorio contiene apuntes, guias, escritos en markdown del ciclo formativo de grado superior en **Administración de Sistemas Informáticos en Red (ASIR)**, conforme con la nueva normativa de formación profesional de Castilla y León.
 
-Aquí ira contexto general de lo que se da en CYL normativa el proposito la estructrua del repositorio de forma general.
+<!--Aquí ira contexto general de lo que se da en CYL normativa el proposito la estructrua del repositorio de forma general.-->
 
 ## Objetivo del repositorio
 
