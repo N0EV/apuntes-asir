@@ -1,29 +1,28 @@
-# 🔒 Politica de seguridad
+# 🚨 Política de Seguridad
 
-## 🪲 Reporte de Errores y Fallos
+La seguridad de este repositorio es fundamental para garantizar un entorno de aprendizaje fiable y seguro para todos los estudiantes de ASIR.
 
-Si encuentras cualquier **error, inexactitud o fallo** en este repositorio, ayúdanos a mantener la calidad reportándolo en la sección de Issues.
+## Reportar Vulnerabilidades
 
-### ✍️ A. Errores en Apuntes y Documentación
+Si encuentras una vulnerabilidad de seguridad o un problema crítico en los apuntes, por favor **no abras un Issue público**. En su lugar, por favor sigue estos pasos:
 
-Si encuentras una errata, inexactitud o información desactualizada en los textos:
+### 1. Contacto Directo
+Envía un correo electrónico a la siguiente dirección:
+📧 `131699900+N0EV@users.noreply.github.com`
 
-1.  **Dirígete a Issues** y haz clic en **"New issue"**.
-2.  **Detalla el Error:** Indica claramente:
-     - La **ubicación exacta** (archivo, sección o línea).
-     - Lo que dice actualmente el apunte.
-     - Lo que **debería decir** (la corrección sugerida).
-3.  **Etiqueta:** Usa la etiqueta apropiada (ej: `documentation`, `typo`).
-4.  **Menciona (@etiqueta)** al mantenedor (ej: `@N0EV`) para asegurar una pronta revisión.
+### 2. Contenido del Correo
+Para poder evaluar el riesgo, incluye la siguiente información:
+* **Título:** [SEGURIDAD] Descripción breve del problema.
+* **Descripción:** Detalla qué es el problema y cómo afecta a la seguridad de los datos o a la integridad de los apuntes.
+* **Pasos para reproducir:** Instrucciones claras sobre cómo ver o explotar la vulnerabilidad.
 
-### ⌨️ B. Fallos en Comandos o Scripts (Bug/Vulnerabilidad)
+## Qué considerar una vulnerabilidad
+* Exposición de credenciales (contraseñas, claves SSH, API keys) en scripts o configuraciones de ejemplo.
+* Ejemplos de código que promuevan prácticas inseguras (ej: inyección SQL, permisos 777 en producción).
+* Enlaces a material malicioso o que infrinja derechos de autor.
 
-Si encuentras un comando que no funciona, un error en la sintaxis de un *script* o una posible vulnerabilidad:
+## Tiempo de respuesta
+Nos comprometemos a revisar y responder a los reportes de seguridad clasificados como críticos en un plazo máximo de 48 horas.
 
-1.  **Dirígete a Issues** y haz clic en **"New issue"**.
-2.  **Proporciona la Información:** Incluye toda la información necesaria:
-     - **Pasos para Replicar:** Los comandos que ejecutaste.
-     - **Resultado Obtenido:** El error o comportamiento inesperado.
-     - **Resultado Esperado:** Lo que debería haber hecho el comando o script.
-3.  **Etiqueta:** asigna la etiqueta correspondiente (ej: `bug`, `vulnerability`).
-4.  **Menciona (@etiqueta)** al mantenedor (ej: `@N0EV`) para asegurar una pronta revisión.
+## Actuación
+Una vez confirmado el problema, trabajaremos en una solución inmediata y notificaremos a los usuarios si es necesario. Agradecemos tu colaboración para mantener este repositorio seguro.
