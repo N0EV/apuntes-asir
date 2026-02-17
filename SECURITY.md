@@ -8,7 +8,10 @@ Si encuentras una vulnerabilidad de seguridad o un problema crítico en los apun
 
 ### 1. Contacto Directo
 Envía un correo electrónico a la siguiente dirección:
-📧 `131699900+N0EV@users.noreply.github.com`
+📧 
+```
+131699900+N0EV@users.noreply.github.com
+```
 
 ### 2. Contenido del Correo
 Para poder evaluar el riesgo, incluye la siguiente información:
