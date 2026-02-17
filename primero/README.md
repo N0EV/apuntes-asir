@@ -19,4 +19,4 @@ El módulo optativo referido anteriormente es el siguiente: Transformación del 
 > Al módulo optativo se le pondra las siglas que tiene el modulo de la asignatura.
 
 >[!WARNING]
->Este repositorio esta en construcción mientras este cursando el curso, si en cualquier momento encuentras un fallo hazmelo saber mediante una "issue" o una "pull request" como especifico en el [SECURITY](https://github.com/N0EV/apuntes-asir/blob/651497715ef83bb0162947d2f0ed766056054641/SECURITY.md) del repositorio.
+>Este repositorio esta en construcción mientras este cursando el curso, si en cualquier momento encuentras un fallo hazmelo saber mediante una "issue" o una "pull request".
