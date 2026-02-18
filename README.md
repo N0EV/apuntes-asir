@@ -20,7 +20,7 @@ El principal objetivo de este repositorio es centralizar el material de estudio 
 
 ## Estructrua del repositorio
 
-Los contenidos esta dividido por curso y dentro de cada curso, se encuentran las carpetas de los modulos. Cada modulo incluye su propio `README.md` con el temario detallado.
+Los contenidos esta dividido por curso y dentro de cada curso, se encuentran las carpetas de los modulos.
 
 | Carpeta                             | Descripción                        | Link                             |
 | ----------------------------------- | ---------------------------------- | -------------------------------- |
